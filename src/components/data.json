@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "Name":"vo viet hai",
+        "phone":"01945683",
+        "permission":"1"
+    },
+    {
+        "id":2,
+        "Name":"vo viet hung",
+        "phone":"01945683",
+        "permission":"2"
+    },
+    {
+        "id":3,
+        "Name":"vo viet cuong",
+        "phone":"01945683",
+        "permission":"3"
+    },
+    {
+        "id":4,
+        "Name":"vo viet dung",
+        "phone":"01945683",
+        "permission":"3"
+    },
+    {
+        "id":5,
+        "Name":"vo viet thanh",
+        "phone":"01945683",
+        "permission":"3"
+    }
+  
+]
